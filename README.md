@@ -1,4 +1,5 @@
-test
+My starting with Git
 ====
 
-tests
+Do not take into account
+This repository is for my "private" git tests.
